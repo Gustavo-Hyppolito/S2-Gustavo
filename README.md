@@ -1,0 +1,1 @@
+Este projeto tem como objetivo apoiar os pais no ensino das operações básicas de matemática, incluindo adição, subtração, multiplicação e divisão, além de ajudar no entendimento dos números positivos e negativos. A proposta visa fornecer ferramentas e recursos que facilitem a aprendizagem das crianças, tornando o processo mais eficiente e acessível.
