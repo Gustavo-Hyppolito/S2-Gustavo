@@ -1,3 +1,8 @@
+print(" Ola digite dois numeros para eu fazer o calculo")
+
+num1=float(input('digite o primeiro numero'))
+num2=float(input('digite o segundo numero'))
+operação=str(input("""escolha a operação que irá usar '+','-','/','*' os sinais de cada operação"""))
 
 
 
