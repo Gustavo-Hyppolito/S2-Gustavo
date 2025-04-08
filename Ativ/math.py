@@ -1,12 +1,12 @@
 
-def conta(num1, num2):
+def conta(num1, num2
     resultado=0
     if operação =="+":
        resultado= num1+num2
      
        print(resultado)
 
-    elif operação== "-":
+    if operação== "-":
         
          resultado=num1-num2
          print(resultado)
@@ -15,7 +15,7 @@ def conta(num1, num2):
           print(resultado)
     elif operação=='/':
         resultado= num1/num2
-        print (resultado)
+        (resultado)
 
 conta (num1, num2)
 
